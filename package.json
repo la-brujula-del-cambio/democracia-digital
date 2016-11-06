@@ -1,0 +1,33 @@
+{
+  "name": "democracia-digital",
+  "version": "0.0.2",
+  "description": "Aplicación para empoderar grupos de personas mediante procedimientos democráticos que garanticen una cota máxima de corrupción cercana a 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "postversion": "git push && git push --tags && rm -rf build/temp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la-brujula-del-cambio/democracia-digital.git"
+  },
+  "keywords": [
+    "Democracia",
+    "democracy",
+    "people",
+    "social",
+    "economy",
+    "economía",
+    "autoorganización",
+    "self-organization"
+  ],
+  "author": "La Brújula del Cambio",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/la-brujula-del-cambio/democracia-digital/issues"
+  },
+  "homepage": "https://github.com/la-brujula-del-cambio/democracia-digital#readme",
+  "dependencies": {
+    "cucumber": "^1.3.1"
+  }
+}
