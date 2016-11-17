@@ -1,6 +1,6 @@
 {
   "name": "democracia-digital",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Aplicación para empoderar grupos de personas mediante procedimientos democráticos que garanticen una cota máxima de corrupción cercana a 0.",
   "main": "index.js",
   "scripts": {
